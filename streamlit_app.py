@@ -1,3 +1,4 @@
 import streamlit  
 streamlit.title("My New Adventure")
-streamlit.title("About to Begin")
+streamlit.header("Wat is about to Being?")
+streamlit.text("Learning more")
