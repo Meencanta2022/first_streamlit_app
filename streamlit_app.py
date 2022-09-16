@@ -1,2 +1,3 @@
 import streamlit  
-streamlit.title("My new adventure")
+streamlit.title("My New Adventure")
+streamlit.title("About to Begin")
